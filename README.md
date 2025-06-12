@@ -59,9 +59,9 @@
 
 ### 📌 Featured Projects
 
-- **[HR Insights](https://github.com/divyanshnext/hr-insights)** – HR Dashboard with advanced filters, analytics, and Tailwind styling  
-- **[LittleLinks](https://github.com/divyanshnext/littlelinks)** – A custom URL shortener with login, tracking, and analytics  
-- **[QuizMaster](https://github.com/divyanshnext/quizmaster)** – Secure quiz platform with dashboards and real-time graphs
+- **[HR Insights](https://github.com/divyanshnext/HrDashboard-nextjs)** – HR Dashboard with advanced filters, analytics, and Tailwind styling  
+- **[LittleLinks](https://github.com/divyanshnext/Littlelinks-url-shortener)** – A custom URL shortener with login, tracking, and analytics  
+- **[QuizMaster](https://github.com/divyanshnext/QuizMaster-flask)** – Secure quiz platform with dashboards and real-time graphs
 
 ---
 
